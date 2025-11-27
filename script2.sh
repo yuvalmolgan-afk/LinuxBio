@@ -1,5 +1,5 @@
 #!/bin/bash
-folder="$1"
+folder=$1
 date=(date +%-m%-%d)
 
 archive="${folder}-${date}.tar.gz"
