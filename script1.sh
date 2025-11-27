@@ -20,3 +20,5 @@ touch test/b.txt
 for ((i=1; i<=5; i++)); do
 touch test/$i.txt
 done
+
+ls -l test
