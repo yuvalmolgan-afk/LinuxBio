@@ -1,0 +1,9 @@
+xx
+123
+456
+codespace
+/workspaces/LinuxBio
+pwdout:/workspaces/LinuxBio
+sum = 12
+sum2 = 15
+pwd = /workspaces/LinuxBio
